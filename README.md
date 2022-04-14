@@ -1,7 +1,7 @@
 # All my Machine Learning Flows and Theory in one Repo!
 
 ## Machine Learning Theory
-- All the theory here! [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karanxhagiulia/Machine_Learning/blob/main/Machine_Learning_Teoria.ipynb)
+- All the theory here! [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karanxhagiulia/Machine_Learning/blob/main/Basics%20(Theory%2C%20Pandas%2C%20Regex)/Machine_Learning_Teoria.ipynb)
 
 # EDA
 [Qui per i miei gist!](https://gist.github.com/karanxhagiulia/4467b485bcab65d7983dd7eb2bcfdd1b)
