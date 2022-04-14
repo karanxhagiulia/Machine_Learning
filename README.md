@@ -19,6 +19,9 @@
 
 # NLP
 ## Pipeline StaCy
-- Gerarchico [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karanxhagiulia/Machine_Learning/blob/main/NLP/NLP_Pipeline_SpaCy.ipynb)
+- Pipeline 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karanxhagiulia/Machine_Learning/blob/main/NLP/NLP_Pipeline_SpaCy.ipynb)
+
+## Pipeline StaCy
+- Pipeline 2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karanxhagiulia/Machine_Learning/blob/main/NLP/Joined_Pipeline_SpaCy.ipynb)
 
 
